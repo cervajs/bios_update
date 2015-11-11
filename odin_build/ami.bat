@@ -1,0 +1,1 @@
+AFUDOS.EXE  %1  /P /B /N /C /x
