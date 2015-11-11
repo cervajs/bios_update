@@ -19,5 +19,6 @@ you can use this floppy image for bios update:
 
 
 IMPORTANT FILES
-*.zip - files with update utils and bios/firmware. extracted to ramdisk x:
-config.sys - menu and drivers
+ - *.zip - files with update utils and bios/firmware. extracted to ramdisk x:
+ - config.sys - menu and drivers
+ - run.bat - run bios update 
